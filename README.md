@@ -397,3 +397,15 @@ Through this project, I gained practical experience in:
 ## ⭐ Project Purpose
 
 This project was developed as a practical **Business Intelligence and Data Analytics project** to demonstrate the ability to transform raw datasets into a structured analytical solution using Microsoft Power BI.
+
+
+## Dashboard Preview
+
+### Main Dashboard
+![Main Dashboard](Screenshots/Dashboard.png)
+
+### Detailed Analysis
+![Detailed Analysis](Screenshots/Detailed-Analysis.png)
+
+### Customer Analysis
+![Customer Analysis](Screenshots/Customer-Analysis.png)
